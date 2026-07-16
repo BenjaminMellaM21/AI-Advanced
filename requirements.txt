@@ -1,0 +1,9 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+chromadb==0.5.5
+anthropic==0.34.2
+python-dotenv==1.0.1
+requests==2.32.3
+beautifulsoup4==4.12.3
+duckduckgo-search==6.2.13
+pydantic==2.9.2
