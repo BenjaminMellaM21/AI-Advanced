@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # JARVIS-Auto 🧠
 
 Asistente conversacional con **memoria vectorial** y **auto-aprendizaje**: cada conversación
@@ -96,3 +97,6 @@ jarvis-ai/
 
 Revisa `docs/ROADMAP.md` — está pensado en versiones (v1 → v5) para que vayas
 incorporando mejoras de forma incremental sin romper lo que ya funciona.
+=======
+# AI-Advanced
+>>>>>>> ba96c2cf03fc232850f91d0fd9fdcd3fa395954f
